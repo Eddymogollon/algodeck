@@ -7,9 +7,9 @@ Algo Deck is an **open-source collection of +200 algorithmic flash cards**.
 It helps you preparing and succeeding in your **algorithm & data structure interview**. The code examples are in Java.
 
 The topics covered are the following:
-- [Array](array.md): reversing an array, finding a pivot, handling a dynamic array, etc.  
+- [Array](array.md): reversing an array, finding a pivot, handling a dynamic array, etc.  !!
 - [Bit](bit.md): operators, bit manipulation, etc.
-- [Complexity](complexity.md): algorithm & data structures complexity
+- [Complexity](complexity.md): algorithm & data structures complexity !!
 - [Dynamic Programming](dynamicprogramming.md): dynamic programming concept
 - [Encoding](encoding.md): encoding theory
 - [General](general.md): general knowledge including how to approach a problem or testing a first solution
