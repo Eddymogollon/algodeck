@@ -7,23 +7,23 @@ Algo Deck is an **open-source collection of +200 algorithmic flash cards**.
 It helps you preparing and succeeding in your **algorithm & data structure interview**. The code examples are in Java.
 
 The topics covered are the following:
-- [Array](array.md): reversing an array, finding a pivot, handling a dynamic array, etc.  !!
-- [Bit](bit.md): operators, bit manipulation, etc. !!
+- !![Array](array.md): reversing an array, finding a pivot, handling a dynamic array, etc. 
+- !![Bit](bit.md): operators, bit manipulation, etc.
 - [Complexity](complexity.md): algorithm & data structures complexity
-- [Dynamic Programming](dynamicprogramming.md): dynamic programming concept !!
-- [Encoding](encoding.md): encoding theory !!
-- [General](general.md): general knowledge including how to approach a problem or testing a first solution !!
+- !![Dynamic Programming](dynamicprogramming.md): dynamic programming concept
+- !![Encoding](encoding.md): encoding theory
+- !![General](general.md): general knowledge including how to approach a problem or testing a first solution
 - [Graph](graph.md): A*, Dijkstra, BFS vs DFS, cycles detection, topological sort, etc.
 - [Greedy](greedy.md): greedy algorithms concepts
 - [Hash Table](hashtable.md): hashtable data structure
 - [Heap](heap.md): heap data structure including min-heap/max heap, binary heap use cases, etc.
-- [Linked List](linkedlist.md): linked list data structure, how to get the middle element, iterate over two lists, doubly linked list, etc. !!
-- [Math](math.md): discrete math
+- !![Linked List](linkedlist.md): linked list data structure, how to get the middle element, iterate over two lists, doubly linked list, etc.
+- !![Math](math.md): discrete math
 - [Queue](queue.md): queue data structure
 - [Recursion](recursion.md): recursion concepts
 - [Sort](sort.md): sort algorithms including concepts, complexity, use cases, etc.
 - [Stack](stack.md): stack data structure
-- [String](string.md): string permutation, rotation, rabin-karp substring search, etc. !!
+- !![String](string.md): string permutation, rotation, rabin-karp substring search, etc.
 - [Technique](technique.md): most important techniques to master to solve algorithmic problems including greedy techniques, runner, sliding window, etc.
 - [Tree](tree.md): binary tree use cases, binary search tree, 2-3 tree, red-black tree, use cases, etc. 
 
