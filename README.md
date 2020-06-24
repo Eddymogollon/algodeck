@@ -19,10 +19,10 @@ The topics covered are the following:
 - [Heap](heap.md): heap data structure including min-heap/max heap, binary heap use cases, etc.
 - !! [Linked List](linkedlist.md): linked list data structure, how to get the middle element, iterate over two lists, doubly linked list, etc.
 - !! [Math](math.md): discrete math
-- [Queue](queue.md): queue data structure
-- [Recursion](recursion.md): recursion concepts
+- !![Queue](queue.md): queue data structure
+- !![Recursion](recursion.md): recursion concepts
 - [Sort](sort.md): sort algorithms including concepts, complexity, use cases, etc.
-- [Stack](stack.md): stack data structure
+- !![Stack](stack.md): stack data structure
 - !! [String](string.md): string permutation, rotation, rabin-karp substring search, etc.
 - [Technique](technique.md): most important techniques to master to solve algorithmic problems including greedy techniques, runner, sliding window, etc.
 - [Tree](tree.md): binary tree use cases, binary search tree, 2-3 tree, red-black tree, use cases, etc. 
