@@ -9,8 +9,8 @@ It helps you preparing and succeeding in your **algorithm & data structure inter
 The topics covered are the following:
 - [Array](array.md): reversing an array, finding a pivot, handling a dynamic array, etc.  !!
 - [Bit](bit.md): operators, bit manipulation, etc.
-- [Complexity](complexity.md): algorithm & data structures complexity !!
-- [Dynamic Programming](dynamicprogramming.md): dynamic programming concept
+- [Complexity](complexity.md): algorithm & data structures complexity
+- [Dynamic Programming](dynamicprogramming.md): dynamic programming concept !!
 - [Encoding](encoding.md): encoding theory
 - [General](general.md): general knowledge including how to approach a problem or testing a first solution
 - [Graph](graph.md): A*, Dijkstra, BFS vs DFS, cycles detection, topological sort, etc.
